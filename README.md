@@ -1,1 +1,1 @@
-# aoc25
+[# aoc25](https://adventofcode.com/)
